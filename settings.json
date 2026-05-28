@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Notbloodsmp451877.aternos.me",
+  
+    "port": 27832,
     "version": "1.21.1"
   },
   "position": {
